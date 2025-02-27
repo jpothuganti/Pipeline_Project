@@ -1,6 +1,27 @@
 # Pipeline_Project
 Pipeline project for comp 383
 
+
+Dependencies Needed to run the following pipeline:
+
+Libraries:
+biopython (pip install biopython)
+
+Command line tools:
+
+NCBI Datasets
+
+SRA Toolkit
+
+Bowtie2
+
+SAMtools
+
+SPAdes
+
+Blast+
+
+
 Step 1:
 
 First run the following commands
@@ -42,3 +63,4 @@ Then run the commands
 - git push
 
 Now the first 10,000 reads are stored in git.
+
