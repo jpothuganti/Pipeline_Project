@@ -1,6 +1,7 @@
 # Pipeline_Project
 Pipeline project for comp 383
 
+
 Dependencies Needed to run the following pipeline:
 
 Libraries:
@@ -15,8 +16,11 @@ SRA Toolkit
 Bowtie2
 
 SAMtools
+
 SPAdes
+
 Blast+
+
 
 Step 1:
 
