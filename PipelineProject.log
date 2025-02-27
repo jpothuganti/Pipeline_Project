@@ -1,0 +1,14 @@
+Donor 1 (2dpi) had 0] read pairs before Bowtie2 filtering and 0 readpairs after.
+Donor 1 (6dpi) had 0] read pairs before Bowtie2 filtering and 0 readpairs after.
+There are 64 contigs > 1000 bp in the assembly.
+There are 93638 bp in the assembly.
+EF999921.1	100.000	3024	1	3024	99726	96703	5585	0.0	EF999921.1 Human herpesvirus 5 strain TB40/E clone TB40-BAC4, complete sequence
+KF297339.1	100.000	3024	1	3024	67685	64662	5585	0.0	KF297339.1 Human herpesvirus 5 strain TB40/E clone Lisa, complete genome
+MT070140.1	100.000	3024	1	3024	67456	64433	5585	0.0	MT070140.1 UNVERIFIED: Human betaherpesvirus 5 isolate P10, complete genome
+MW439039.1	100.000	3024	1	3024	67084	64061	5585	0.0	MW439039.1 Human betaherpesvirus 5 strain TB40/EE, complete genome
+MW439038.1	100.000	3024	1	3024	67084	64061	5585	0.0	MW439038.1 Human betaherpesvirus 5 strain TB40/EF, complete genome
+MT044484.1	99.967	3024	1	3024	67037	64014	5579	0.0	MT044484.1 Human betaherpesvirus 5 strain HAN-SOT4, complete genome
+KX544839.1	99.967	3024	1	3024	99707	96685	5578	0.0	KX544839.1 Human betaherpesvirus 5 isolate TB40-E_UNC, complete genome
+AC146907.1	99.901	3024	1	3024	160920	163943	5568	0.0	AC146907.1 Human Herpesvirus 5 FIX-BAC isolate, complete sequence
+GU179289.1	99.901	3024	1	3024	67119	64096	5568	0.0	GU179289.1 Human herpesvirus 5 strain VR1814, complete genome
+KR534198.1	99.901	3024	1	3024	67202	64179	5568	0.0	KR534198.1 Human herpesvirus 5 strain JER893, complete genome
