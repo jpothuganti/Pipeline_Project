@@ -1,7 +1,7 @@
 # Pipeline_Project
 Pipeline project for comp 383
 
-To run the code run the wrapper.py file
+To run the code run the wrapper.py file and make sure you have the FastqFiles folder in the same directory as wrapper.py
 
 Dependencies Needed to run the following pipeline:
 
